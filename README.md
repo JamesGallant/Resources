@@ -33,8 +33,8 @@ Markdown is a html markup and used to write these readme documnets as well as no
 * [Headers](#header)
 * [Lists](#lists)
 * [Images](#images)
-* [Emphasis](#emphasis)
 * [Links](#links)
+* [Emphasis](#emphasis)
 * [Blockquotes](#blockquotes)
 * [Escape](#escapes)
 * [Mentions](#mentions)
@@ -86,15 +86,26 @@ Lists can be ordered or unordered
     * Item 1b1
 * Item 2
 
-## Images
-Images can be references like links but by using a path within the github folder. This is the syntax to display the logo
-
+## Images <a name=images></a>
+Images can be references like links but by using a path within the github folder. The difference between linking websites and images is the use of a `!` before the first bracket. This is the syntax to display the logo:
 ```
 ![image](/data/0.gif)
 ```
 ![image](/data/0.gif)
 
+## Links <a name=links></a>
+Generally the same as images and can be used inline as well. Replace the path with your url and remove the exclamation mark. Links can also point internally.
 
+### The base implementation is done like this:
+```
+[Link](url)
+[link to goolge](https://www.google.com)
+```
+[link to google](https://www.google.com)
+
+I can also [link to google](https://www.google.com) in text.
+
+If I can call a image ![Link to google](https://www.google.com)
 
 
 
