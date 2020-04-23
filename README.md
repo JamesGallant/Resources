@@ -63,17 +63,15 @@ Lists can be ordered or unordered
 **ordered** list
 ```
 1. Item 1
-  * item 1a
 2. Item 2
-  *item 2a
-  *item 2b
 3. Item 3
+ * Item 3a
+ * Item 3b
 ```
 1. Item 1
-  * item 1a
 2. Item 2
-  *item 2a
-  *item 2b
 3. Item 3
+ * Item 3a
+ * Item 3b
 
 
