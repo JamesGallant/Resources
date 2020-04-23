@@ -37,7 +37,6 @@ Markdown is a html markup and used to write these readme documnets as well as no
 * [Emphasis](#emphasis)
 * [Blockquotes](#blockquotes)
 * [Escape](#escapes)
-* [Mentions](#mentions)
 * [Code blocks](#CodeBlocks)
 * [Task lists](#taskList)
 * [Tables](#tables)
@@ -128,7 +127,7 @@ _Also in italics_
 <br>
 **We** can _mix_ it **up**
 
-## Adding blocquotes <a name=blockquotes></a>
+## Adding blockquotes <a name=blockquotes></a>
 Block quotes can be used to highlight paragraphs
 ```
 Sometimes things are better in blocks:
@@ -141,3 +140,14 @@ Sometimes things are better in blocks:
 >Here is the start of a blockquote. This formats all of this stuff in a nicer way. 
 >Sometimes its all you really need.
 
+## Escaping markdown syntax <a name=escapes></a>
+This is a way to write markown documents and still use some of the commonly used characters. Markdown uses the `\` to escape characters and display them as literal.
+```
+**Not Escaped**
+\**Escaped\**
+```
+**Not Escaped**
+\*\*Escaped\*\*
+
+## Creating code blocks <a name=CodeBlocks></a>
+Code blocks create designated space for code which can be used for copy and paste purposes later. Do not write any code that will not run. This is cause for massive frustration down the line. The `\`\` is used  
