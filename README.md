@@ -119,9 +119,13 @@ _Also in italics_
 **We** can _mix_ it **up**
 ```
 **This will be bold**
+<br>
 __Also bold__
+<br>
 *This is italics*
+<br>
 _Also in italics_
+<br>
 **We** can _mix_ it **up**
 
 
