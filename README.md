@@ -82,8 +82,8 @@ Lists can be ordered or unordered
 * Item 2
 ```
 * Item 1
- * Item 1b
-  *Item 1b1
+  * Item 1b
+    * Item 1b1
 * Item 2
 
 
