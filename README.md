@@ -60,7 +60,7 @@ Headers follow the same convention as html `<h></h>` tags, which is replaced wit
 ## Markdown lists <a name=lists></a>
 Lists can be ordered or unordered
 
-### Ordered list
+#### Ordered list
 ```
 1. Item 1
 2. Item 2
@@ -74,7 +74,7 @@ Lists can be ordered or unordered
   * Item 3a
   * Item 3b
  
-### Unordered list
+#### Unordered list
 ```
 * Item 1
   * Item 1b
@@ -96,7 +96,7 @@ Images can be references like links but by using a path within the github folder
 ## Links <a name=links></a>
 Generally the same as images and can be used inline as well. Replace the path with your url and remove the exclamation mark. Links can also point internally.
 
-### The base implementation is done like this:
+#### The base implementation is done like this:
 ```
 [Link](url)
 [link to goolge](https://www.google.com)
@@ -104,12 +104,25 @@ Generally the same as images and can be used inline as well. Replace the path wi
 [link to google](https://www.google.com)
 
 I can also [link to google](https://www.google.com) in text.
-### Place a image using outside links
+#### Place a image using outside links
+```
+![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+```
+![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
+## Place emphasis on words <a name=emphasis></a>
 ```
-![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+**This will be bold**
+__Also bold__
+*This is italics*
+_Also in italics_
+**We** can _mix_ it **up**
 ```
-![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+**This will be bold**
+__Also bold__
+*This is italics*
+_Also in italics_
+**We** can _mix_ it **up**
 
 
 
