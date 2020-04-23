@@ -166,3 +166,36 @@ import numpy as np
 ```Python
 import numpy as np
 ```
+
+## Task lists <a name=taskList></a>
+Task lists create checkboxes to show progress. 
+```
+- [] I did not do the thing
+- [x] I did do the thing
+```
+- [ ] I did not do the thing
+- [x] I did do the thing
+
+## Tables <a name=tables></a>
+The most annoying thing to make but it feels good once you are done. Tables are constructed with `|` and `-`
+```
+|Column1 header|Column2 header|Column3 header                          |
+|--------------|--------------|----------------------------------------|
+|Thing in col1 |Thing in col2 | Thing in col                           |
+|`Formatted`   |**Formatted** |[Link to google](https:\\www.google.com)|
+|Thing here    |52668         |![image](/data/0.gif)                   |
+```
+|Column1 header|Column2 header|Column3 header                          |
+|--------------|--------------|----------------------------------------|
+|Thing in col1 |Thing in col2 | Thing in col                           |
+|`Formatted`   |**Formatted** |[Link to google](https:\\www.google.com)|
+|Thing here    |52668         |![image](/data/0.gif)                   |
+
+## Emojis <a name=emoji></a>
+In case these are still relevant to use. Its supported. Find all your options [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
+```
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
+```
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
