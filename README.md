@@ -27,7 +27,7 @@ Here we have the rules and regulations for interacting wiht this repository. Ple
 * Don't remove past members without review. There may be critical builds lost.
       
 # How to write markdown documents <a name=markdown></a>
-Markdown is a html markup and used to write these readme documnets as well as notebooks. You can also use HTML in markdown and there is some overlap. Interested in HTML, check out ![w3scools](https://www.w3schools.com/html/default.asp) for examples. Want a pdf cheatsheet, find it ![here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+Markdown is a html markup and used to write these readme documnets as well as notebooks. You can also use HTML in markdown and there is some overlap. Interested in HTML, check out [w3scools](https://www.w3schools.com/html/default.asp) for examples. Want a pdf cheatsheet, find it [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Something specific?
 * [Headers](#header)
