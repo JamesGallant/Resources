@@ -151,10 +151,18 @@ This is a way to write markown documents and still use some of the commonly used
 \*\*Escaped\*\*
 
 ## Creating code blocks <a name=CodeBlocks></a>
-Code blocks create designated space for code which can be used for copy and paste purposes later. Do not write any code that will not run. This is cause for massive frustration down the line. A code block is made with three back ticks. adding the language name to the top three back ticks will add syntax formatting.
+Code blocks create designated space for code which can be used for copy and paste purposes later. Do not write any code that will not run. This is cause for massive frustration down the line. A code block is made with three back ticks on the top of the code and the bottom to end it. adding the language name to the top three back ticks will add syntax formatting.
 ##### Bash with and without syntax
 ```
 echo ${hello}
 ```
 ```Bash
 echo ${hello}
+```
+##### Python
+```
+import numpy as np
+```
+```Python
+import numpy as np
+```
