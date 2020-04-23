@@ -104,8 +104,12 @@ Generally the same as images and can be used inline as well. Replace the path wi
 [link to google](https://www.google.com)
 
 I can also [link to google](https://www.google.com) in text.
+### Place a image using outside links
 
-If I can call a image ![Link to google](https://www.google.com)
+```
+![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+```
+![Link to google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 
 
