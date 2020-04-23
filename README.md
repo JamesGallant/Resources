@@ -87,7 +87,13 @@ Lists can be ordered or unordered
 * Item 2
 
 ## Images
-Images can be references like links but by using a path within the github folder.
+Images can be references like links but by using a path within the github folder. This is the syntax to display the logo
+
+```
+![image](/data/0.gif)
+```
+![image](/data/0.gif)
+
 
 
 
