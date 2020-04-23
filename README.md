@@ -133,13 +133,11 @@ Block quotes can be used to highlight paragraphs
 ```
 Sometimes things are better in blocks:
 
->Here is the start of a block
->but it can be extended easily
->to a new line
+>Here is the start of a blockquote. This formats all of this stuff in a nicer way. 
+>Sometimes its all you really need.
 ```
 Sometimes things are better in blocks:
 
->Here is the start of a block
->but it can be extended easily
->to a new line
+>Here is the start of a blockquote. This formats all of this stuff in a nicer way. 
+>Sometimes its all you really need.
 
