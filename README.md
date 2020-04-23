@@ -55,3 +55,25 @@ Headers follow the same convention as html `<h></h>` tags, which is replaced wit
 ## This is a secondary header
 ### This is a tertiary header
 <h4>Following the same convention using tags</h>
+<br>
+
+## Markdown lists <a name=lists></a>
+Lists can be ordered or unordered
+
+**ordered** list
+```
+1. Item 1
+  * item 1a
+2. Item 2
+  *item 2a
+  *item 2b
+3. Item 3
+```
+1. Item 1
+  * item 1a
+2. Item 2
+  *item 2a
+  *item 2b
+3. Item 3
+
+
