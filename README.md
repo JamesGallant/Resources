@@ -129,15 +129,16 @@ _Also in italics_
 **We** can _mix_ it **up**
 
 ## Adding blocquotes <a name=blockquotes></a>
+Block quotes can be used to highlight paragraphs
 ```
 Sometimes things are better in blocks:
->
+
 >Here is the start of a block
 >but it can be extended easily
 >to a new line
 ```
 Sometimes things are better in blocks:
->
+
 >Here is the start of a block
 >but it can be extended easily
 >to a new line
