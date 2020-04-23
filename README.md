@@ -49,7 +49,9 @@ Headers follow the same convention as html `<h></h>` tags, which is replaced wit
 # This is a Main header
 ## This is a secondary header
 ### This is a tertiary header
+<h4>Following the same convention using tags</h>
 ```
 # This is a Main header
 ## This is a secondary header
 ### This is a tertiary header
+<h4>Following the same convention using tags</h>
