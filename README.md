@@ -71,20 +71,23 @@ Lists can be ordered or unordered
 1. Item 1
 2. Item 2
 3. Item 3
- * Item 3a
- * Item 3b
+  * Item 3a
+  * Item 3b
  
 ### Unordered list
 ```
 * Item 1
   * Item 1b
-      *Item 1b1
+    * Item 1b1
 * Item 2
 ```
 * Item 1
   * Item 1b
     * Item 1b1
 * Item 2
+
+## Images
+Images can be references like links but by using a path within the github folder.
 
 
 
