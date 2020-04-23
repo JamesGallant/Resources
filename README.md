@@ -30,7 +30,7 @@ Here we have the rules and regulations for interacting wiht this repository. Ple
   * Installation instructions
   * Inputs and outputs if neccesary
   * Description or showcase if appropriate
-* For open source the default lisence is GPL v3.0. For permissive lisences we use MIT.
+* For open source the default license is GPL v3.0. For permissive licenses we use MIT.
       
 # How to write markdown documents <a name=markdown></a>
 Markdown is a html markup and used to write these readme documnets as well as notebooks. You can also use HTML in markdown and there is some overlap. Interested in HTML, check out [w3scools](https://www.w3schools.com/html/default.asp) for examples. Want a pdf cheatsheet, find it [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
