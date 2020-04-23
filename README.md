@@ -150,4 +150,9 @@ This is a way to write markown documents and still use some of the commonly used
 \*\*Escaped\*\*
 
 ## Creating code blocks <a name=CodeBlocks></a>
-Code blocks create designated space for code which can be used for copy and paste purposes later. Do not write any code that will not run. This is cause for massive frustration down the line. The `\`\` is used  
+Code blocks create designated space for code which can be used for copy and paste purposes later. Do not write any code that will not run. This is cause for massive frustration down the line.
+```
+\`\`\`\
+echo "A typical block in linux
+\`\`\`\
+```
