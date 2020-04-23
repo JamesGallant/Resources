@@ -26,8 +26,8 @@ Here we have the rules and regulations for interacting wiht this repository. Ple
 * Always fork the repository. Do not download and reupload it as your own.
 * Don't remove past members without review. There may be critical builds lost.
       
-# How to write markdown documents <a name=#markdown></a>
-Markdown is a html markup and used to write these readme documnets as well as notebooks. You can also use HTML in markdown and there is some overlap. Interested in HTML, check out [w3scools](href="https://www.w3schools.com/html/default.asp") for examples. 
+# How to write markdown documents <a name=markdown></a>
+Markdown is a html markup and used to write these readme documnets as well as notebooks. You can also use HTML in markdown and there is some overlap. Interested in HTML, check out [w3scools](href="https://www.w3schools.com/html/default.asp") for examples. Want a pdf cheatsheet, find it [here](href=https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Something specific?
 * [Headers](#header)
@@ -43,3 +43,13 @@ Markdown is a html markup and used to write these readme documnets as well as no
 * [Tables](#tables)
 * [Emoji](#emoji)
 
+## Markdown headers <a name=header></a>
+Headers follow the same convention as html `<h></h>` tags, which is replaced with a `#`. As the `#` increases the size of the font will decrease.
+```
+# This is a Main header
+## This is a secondary header
+### This is a tertiary header
+```
+# This is a Main header
+## This is a secondary header
+### This is a tertiary header
