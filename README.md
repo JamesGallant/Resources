@@ -207,7 +207,7 @@ In case these are still relevant to use. Its supported. Find all your options [h
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
-# Bioinformatics and Data Science <a href=#bioinfo_ds></a>
+# Bioinformatics and Data Science <a name=bioinfo_ds></a>
 ## Links to online resources
 |Name      |Description                                             |Citation (if applicable)|
 |----------|--------------------------------------------------------|------------------------|
