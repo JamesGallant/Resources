@@ -4,6 +4,7 @@ Resources probably has what you need. If something is missing, feel free to add 
 # Contents
 * [Rules and Regulations](#RulesandRegs)
 * [How to write markdown and README's](#markdown)
+* [Bioinformatics and data science](#bioinfo_ds)
 
 # Rules and regulations <a name=RulesandRegs></a>
 Here we have the rules and regulations for interacting wiht this repository. Please do not add or remove rules if you are not an admin. These are in place to protect our work.
@@ -205,3 +206,20 @@ In case these are still relevant to use. Its supported. Find all your options [h
 ```
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
+
+# Bioinformatics and Data Science <a href=#bioinfo_ds></a>
+## Links to online resources
+|Name      |Description                                             |Citation (if applicable)|
+|----------|--------------------------------------------------------|------------------------|
+|[Provision](http://provision.shinyapps.io/provision/)|Proteomics data analysis workflow from MaxQuant output. | |
+|[Webgestalt](http://www.webgestalt.org/)| Pathway and gene onthology enrichments for model organisms. |[Manuscript](https://doi.org/10.1093/nar/gkz401) |
+|[Reactome](https://reactome.org/) | Exploratory pathway enrichment, especially for human. |[Manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3013646/)|
+|[String](https://string-db.org/) | Database of known and predicted protein-protein interactions | [Manuscript](https://www.ncbi.nlm.nih.gov/pubmed/30476243) |
+|[Mycobrowser](https://mycobrowser.epfl.ch/) | Collection of mycobacterial genomes and annotations. |[Manuscript](https://doi.org/10.1016/j.tube.2010.09.006) |
+|[TB depot](https://depot.tbportals.niaid.nih.gov/#/home) | Large resource for exploring multiple aspects of tuberculosis infection biology. | [Manuscript](https://www.ncbi.nlm.nih.gov/pubmed/31120982) |
+|[Uniprot](https://www.uniprot.org/) | Large database for proteome related information, including reference sequences and metadata. | |
+|[NCBI](https://www.ncbi.nlm.nih.gov/) | Large database for genome related information, including reference sequences and metadata. | |
+|[SRA](https://www.ncbi.nlm.nih.gov/sra) | Submit and extract raw genome sequence data, United States | |
+|[ENA](https://www.ebi.ac.uk/ena) | Submit and extract raw genome sequence data, Europe | |
+|[PRIDE](https://www.ebi.ac.uk/pride/) | Submit and extract raw proteome data | |
+|[ORF finder](https://www.ncbi.nlm.nih.gov/orffinder/) | Find open reading frames. | |
