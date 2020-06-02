@@ -251,6 +251,10 @@ attach to named:
 
     tmux a -t myname
 
+detach 
+```
+tmux detach
+```
 list sessions:
 
     tmux ls
