@@ -5,6 +5,7 @@ Resources probably has what you need. If something is missing, feel free to add 
 * [Rules and Regulations](#RulesandRegs)
 * [How to write markdown and README's](#markdown)
 * [Bioinformatics and data science](#bioinfo_ds)
+* [Tmux](#tmux)
 
 # Rules and regulations <a name=RulesandRegs></a>
 Here we have the rules and regulations for interacting wiht this repository. Please do not add or remove rules if you are not an admin. These are in place to protect our work.
@@ -223,3 +224,38 @@ In case these are still relevant to use. Its supported. Find all your options [h
 |[ENA](https://www.ebi.ac.uk/ena) | Submit and extract raw genome sequence data, Europe | |
 |[PRIDE](https://www.ebi.ac.uk/pride/) | Submit and extract raw proteome data | |
 |[ORF finder](https://www.ncbi.nlm.nih.gov/orffinder/) | Find open reading frames. | |
+
+# Tmux or terminal multiplexer cheat sheet <a name=tmux></a>
+
+Tmux is used to create new windows in the command line and detach from those windows. This means you can exit the server and keep a process running. 
+
+## install with apt package manager
+```
+sudo apt-get install tmux
+```
+
+## Most important functions
+start new:
+
+    tmux
+
+start new with session name:
+
+    tmux new -s myname
+
+attach:
+
+    tmux a  #  (or at, or attach)
+
+attach to named:
+
+    tmux a -t myname
+
+list sessions:
+
+    tmux ls
+
+kill session:
+
+    tmux kill-session -t myname
+
