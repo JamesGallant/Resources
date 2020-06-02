@@ -254,6 +254,8 @@ attach to named:
 detach 
 ```
 tmux detach
+or
+ctrl-b d
 ```
 list sessions:
 
